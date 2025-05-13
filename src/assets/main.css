@@ -1,0 +1,6 @@
+body {
+  background-color: #4f6d5d !important; /* pakai !important untuk paksa menimpa Bootstrap */
+  margin: 0;
+  font-family: monospace;
+  min-height: 100vh;
+}
